@@ -1,4 +1,4 @@
-# 💫 About Me: I am Harshavardhan Welcome to my github Profile and ac
+# 💫 About Me: I am Harshavardhan Welcome to my github Profile and activi
 I,m currently studing final year Bsc.And enhancing frontend technologies 
 
 
