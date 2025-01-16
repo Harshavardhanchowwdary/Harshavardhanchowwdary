@@ -1,5 +1,5 @@
 # 💫 About Me: I am Harshavardhan Welcome to my github Profile 
-I,m currently studing final year Bsc.And enhancing frontend technologies hello 
+I,m currently studing final year Bsc.And enhancing frontend technologies hell
 
 
 ## 🌐 Socials:
