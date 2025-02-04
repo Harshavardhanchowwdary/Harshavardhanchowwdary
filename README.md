@@ -1,6 +1,6 @@
 # 💫 About Me: I am Harshavardhan Welcome to my github Profile       
 I,m currently studing final year Bsc.And enhancing frontend technologies                                        
-## 🌐 Socials:        
+## 🌐 Socials:         
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/harshachowdary9988) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/channupatiharshavardhan)      
                  
 # 💻 Tech Stack:          
