@@ -1,52 +1,27 @@
-## Hi there! 👋
+# 💫 About Me:
+I,m currenting pursuving Post Graduation (MCA) <br>I,m passionate about Web Development
 
-I'm **Harshavardhan**, a passionate **Frontend and Web Developer**. I'm on a journey to enhance my skills and secure a strong position in this field over the next five years.
 
-## About Me
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/harsha_chowdary9988) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/channupatiharshavardhan/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:channupatiharshavardhan@gmail.com) 
 
-Welcome to my GitHub profile! I'm a dedicated developer with a keen interest in frontend technologies and web development. Currently, I am focused on sharpening my skills and exploring new technologies to stay updated in this fast-paced industry.
+# 💻 Tech Stack:
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Harshavardhanchowwdary&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Harshavardhanchowwdary&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Harshavardhanchowwdary&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## Skills & Technologies
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Harshavardhanchowwdary&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-html,css,django,git,js,php,bootstrap,py,sqlite,react,nodejs,mysql,express,redux
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Harshavardhanchowwdary&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-## Top Projects
+---
+[![](https://visitcount.itsvg.in/api?id=Harshavardhanchowwdary&icon=0&color=0)](https://visitcount.itsvg.in)
 
-- [Harshavardhanchowwdary](https://github.com/Harshavardhanchowwdary/Harshavardhanchowwdary) - Hello World Welcome to my Github Profile | ⭐ 1 | Language: HTML | Forks: 0 | Issues: 0
-- [Django](https://github.com/Harshavardhanchowwdary/Django) - Django project repository | ⭐ 0 | Language: Python | Forks: 0 | Issues: 0
-- [SCT_TrackCode_Task1](https://github.com/Harshavardhanchowwdary/SCT_TrackCode_Task1) - Task 1 for SCT Track Code | ⭐ 1 | Language: HTML | Forks: 0 | Issues: 0
-- [SCT_TrackCode_Task2](https://github.com/Harshavardhanchowwdary/SCT_TrackCode_Task2) - Task 2 for SCT Track Code | ⭐ 1 | Language: HTML | Forks: 0 | Issues: 0
-- [SCT_TrackCode_Task3](https://github.com/Harshavardhanchowwdary/SCT_TrackCode_Task3) - Task 3 for SCT Track Code | ⭐ 1 | Language: JavaScript | Forks: 0 | Issues: 0
-
-## GitHub Stats
-
-🏆 **Public Repositories**: 8  
-👥 **Followers**: 1  
-👤 **Following**: 0  
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Harshavardhanchowwdary&show_icons=true&theme=radical)
-
-## Recent Activity
-
-- Pushed changes to [SCT_TrackCode_Task3](https://github.com/Harshavardhanchowwdary/SCT_TrackCode_Task3) - Update README.md (April 9, 2025)  
-- Pushed changes to [Django](https://github.com/Harshavardhanchowwdary/Django) - Update README.md (April 8, 2025)  
-- Pushed changes to [Har_github](https://github.com/Harshavardhanchowwdary/Har_github) - Update README.md (April 8, 2025)  
-- Pushed changes to [SCT_TrackCode_Task2](https://github.com/Harshavardhanchowwdary/SCT_TrackCode_Task2) - Update README.md (April 7, 2025)  
-- Pushed changes to [SCT_TrackCode_Task1](https://github.com/Harshavardhanchowwdary/SCT_TrackCode_Task1) - Update README.md (April 7, 2025)
-
-## Latest Blog Posts
-
-No recent blog posts available.
-
-## Connect with Me
-
-{"linkedin":"https://www.linkedin.com/in/channupatiharshavardhan","generic":"https://harshaportfoilo.netlify.app","instagram":"https://www.instagram.com/harsha_chowdary9988/"}
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=harshavardhanchowwdary&show_icons=true&locale=en&layout=compact" alt="harshavardhanchowwdary" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=harshavardhanchowwdary&show_icons=true&locale=en" alt="harshavardhanchowwdary" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harshavardhanchowwdary&" alt="harshavardhanchowwdary" /></p>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
 
